@@ -165,3 +165,11 @@ app.listen(PORT, () => {
 app.get('/', (request,response) => {
     response.sendFile(__dirname + '/index.html')
 }) 
+
+app.get('/api/:team', (request,response) => {
+    const userTeam = request.params.team
+    if (teams[userTeam]){
+        response.json(teams[userTeam])
+    }
+    console.log('request made')
+})
