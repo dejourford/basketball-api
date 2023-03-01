@@ -1,6 +1,13 @@
 const express = require('express')
 const app = express()
 const PORT = 8
+app.use(express.static('public/css'))
+app.use(express.static('public/js'))
+app.use(express.static('public/images'))
+
+
+
+
 
 const teams = {
     'atlanta hawks': {
