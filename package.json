@@ -1,0 +1,23 @@
+{
+  "name": "basketball-api",
+  "version": "1.0.0",
+  "description": "<h1>basketball-api</h1>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejourford/basketball-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejourford/basketball-api/issues"
+  },
+  "homepage": "https://github.com/dejourford/basketball-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
