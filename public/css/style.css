@@ -108,4 +108,18 @@ aside {
     aside {
         display: none;
     }
+
+    main {
+        padding: 0;
+        margin: 0;
+    }
+
+    .button-text {
+        font-size: 0.9rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
 }
