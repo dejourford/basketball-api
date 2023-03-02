@@ -1,5 +1,5 @@
 <h1>basketball-api</h1>
-[label](../../nba-api-gif.mp4)
+https://github.com/dejourford/basketball-api/blob/3341192a6b1447a212cc7656b9b0b69a0aacff97/nba-api-gif.mp4
 <h2>PURPOSE</h2>
 The purpose of this project is to build a fullstack app that tells the client who the best basketball player on any team is. This app is intended to help reinforce my understanding of express and APIs. 
 
