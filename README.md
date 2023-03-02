@@ -1,5 +1,5 @@
 <h1>basketball-api</h1>
-<img src="public/images/nba-api-gif.mp4" alt="app gif">
+<img src="nba-api-gif.mp4" alt="app gif">
 
 <h2>PURPOSE</h2>
 The purpose of this project is to build a fullstack app that tells the client who the best basketball player on any team is. This app is intended to help reinforce my understanding of express and APIs. 
