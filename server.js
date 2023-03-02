@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const PORT = 8
+const PORT = process.env.PORT || 8;
 app.use(express.static('public/css'))
 app.use(express.static('public/js'))
 app.use(express.static('public/images'))
@@ -162,7 +162,7 @@ const teams = {
 
 }
 
-app.listen(process.env.PORT || PORT, () => {
+app.listen(PORT, () => {
     console.log(`the server is running on port ${PORT}`)
 })
 
