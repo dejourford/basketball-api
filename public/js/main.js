@@ -9,4 +9,8 @@ async function apiRequest(){
     const response = await fetch(`/api/${teamName}`)
     const data = await response.json()
     console.log(data)
+    const playerImg = document.querySelector('#player-img').src = data.img
+    const answerText = document.querySelector('.answer-text').textContent = data.name
+    
 }
+

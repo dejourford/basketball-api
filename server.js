@@ -20,6 +20,11 @@ const teams = {
         'img': 'https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png'
     },
 
+    'brooklyn nets': {
+        'name': 'Mikal Bridges',
+        'img': 'https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png'
+    },
+
     'charlotte hornets': {
         'name': 'Lamelo Ball',
         'img': 'https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png'
