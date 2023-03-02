@@ -76,6 +76,7 @@ li {
 aside {
     position: absolute;
     left: 0;
+    top: 40px;
     padding: 20px;
 }
 
@@ -100,4 +101,11 @@ aside {
 .answer-text {
     font-size: 50px;
     font-weight: 800;
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width:825px) {
+    aside {
+        display: none;
+    }
 }
