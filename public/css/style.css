@@ -119,10 +119,15 @@ aside {
 
     .button-text {
         font-size: 0.6rem;
+        text-align: center;
     }
 
     h2 {
         font-size: 1.2rem;
     }
 
+    .player-profile {
+        outline: none;
+        border: none;
+    }
 }
