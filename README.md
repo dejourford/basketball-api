@@ -1,5 +1,5 @@
 <h1>basketball-api</h1>
-<img src="https://thumbs.gfycat.com/CheeryDaringGadwall-size_restricted.gif"</img>
+<img src="https://thumbs.gfycat.com/GeneralTautAsiantrumpetfish-size_restricted.gif"</img>
 <h2>PURPOSE</h2>
 The purpose of this project is to build a fullstack app that tells the client who the best basketball player on any team is. This app is intended to help reinforce my understanding of express and APIs. 
 
