@@ -9,6 +9,7 @@ app.use(express.static('public/images'))
 
 
 
+
 const teams = {
     'atlanta hawks': {
         'name': 'Trae Young',
